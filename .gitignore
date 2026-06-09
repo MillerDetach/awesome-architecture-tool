@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node / VitePress
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
+*.log
